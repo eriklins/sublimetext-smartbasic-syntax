@@ -16,7 +16,7 @@ SmartBASIC files are usually given names with suffix .sb or .sblib. This Sublime
 Place the smartbasic.sublime-syntax file inside the Sublime Text packages User folder (Preferences | Browse Packages...) and restart Sublime Text.
 
 ## Install with Package Control
-Need to check how to contribute to Package Control...
+Install Package Control and run “Package Control: Install Package” command, find and install BBC BASIC package, restart Sublime Text if necessary.
 
 ## License
 This package is licensed under the MIT License.
