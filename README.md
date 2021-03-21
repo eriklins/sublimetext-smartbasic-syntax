@@ -1,2 +1,2 @@
-# sublimetext-smartbasic-syntax
-SmartBASIC language syntax file for Sublime Text editor.
+# SmartBASIC Syntax Highlighting for Sublime Text
+A Sublime Text syntax definition for SmartBASIC language from Laird Connectivity.
