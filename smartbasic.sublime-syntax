@@ -31,7 +31,7 @@ contexts:
       push: line_comment
 
     # Preprocessor: SmartBASIC preprocessor-like tokens
-    - match: "(?i)^\\s*(#)\\s*\\b(define|include|set|cmpif|if)\\b"
+    - match: "(?i)^\\s*(#)\\s*\\b(define|include|set|cmpif|cmpifand|if)\\b"
       captures: 
         1: keyword.control.include.smartbasic
         2: keyword.control.include.smartbasic
